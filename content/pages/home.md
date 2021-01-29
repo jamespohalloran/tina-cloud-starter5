@@ -1,5 +1,5 @@
 ---
-title: Home
+title: HomeTest
 blocks:
   - template: block-hero
     message: Welcome to my website!
